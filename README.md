@@ -2,7 +2,7 @@
 
 Define local HTML "constants."
 
-## Example 1
+## Example 1 [TODO]
 
 ```html
 <html>
@@ -29,7 +29,7 @@ What this does:
 1.  Adds [be-value-added](https://github.com/bahrus/be-value-added) enhancement onto the meta element.
 2.  Sets the value to globalThis['apiBase'].
 
-## Example 2.  With free-form JavaScript evaluation, compact notation
+## Example 2.  With free-form JavaScript evaluation, compact notation [TODO]
 
 The example above allowed us to access a very limited amount of "Javascript" -- limited to field/accessors.
 
@@ -46,7 +46,7 @@ Supported "events":
 onload (after document has loaded)
 onloadstart (right away)
 
-## Example 3.  Build constant object;
+## Example 3.  Build constant object; [TODO]
 
 ```html
 <meta slot=config itemprop=myCustomElementApiBase be-fixed='on load. on load start.' 
